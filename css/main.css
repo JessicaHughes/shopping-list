@@ -1,0 +1,33 @@
+.body {background-color: #fcbdf8
+}
+.container {
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+.allItems {
+	margin: 0 auto;
+	width: 200px;
+}
+
+.allItems li {
+	text-align: left;
+	font-size: 1.5em;
+}
+
+li {
+	list-style: none
+}
+
+li.linethrough {
+	text-decoration: line-through;
+}
+
+.checked, .trash {
+	vertical-align: middle;
+}
+
